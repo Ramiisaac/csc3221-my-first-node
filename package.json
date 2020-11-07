@@ -16,5 +16,11 @@
   ],
 
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+
+  "bugs": {
+    "url": "https://github.com/Ramiisaac/csc3221-my-first-node/issues"
+  },
+  "homepage": "https://github.com/Ramiisaac/csc3221-my-first-node"
+  
 }
